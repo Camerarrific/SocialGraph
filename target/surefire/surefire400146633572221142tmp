@@ -1,0 +1,6 @@
+#surefire
+#Sat Mar 25 18:37:14 GMT 2017
+maven.ext.class.path=/Applications/NetBeans/NetBeans 8.0.2.app/Contents/Resources/NetBeans/java/maven-nblib/netbeans-eventspy.jar
+user.dir=/Users/adam/NetBeansProjects/SocialGraph
+localRepository=/Users/adam/.m2/repository
+basedir=/Users/adam/NetBeansProjects/SocialGraph
