@@ -4,6 +4,8 @@
 #docker files
 *.yml
 
+/src/main/java/com/camerarrific/socialgraph/Storage
+
 /target/classes/com/camerarrific/crypto
 /src/main/java/com/camerarrific/crypto
 /src/main/java/com/camerarrific/storage
