@@ -6,13 +6,11 @@
 
 /src/main/java/com/camerarrific/socialgraph/Storage
 
-/target/classes/com/camerarrific/crypto
 /src/main/java/com/camerarrific/crypto
 /src/main/java/com/camerarrific/storage
 /src/main/java/com/camerarrific/socialgraph/Polymorphic.java
+/target/
 
-/.settings
-/.idea
 
 # Log file
 *.log
