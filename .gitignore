@@ -9,7 +9,7 @@
 /src/main/java/com/camerarrific/crypto
 /src/main/java/com/camerarrific/storage
 /src/main/java/com/camerarrific/socialgraph/Polymorphic.java
-**/target
+/target/*
 
 
 
