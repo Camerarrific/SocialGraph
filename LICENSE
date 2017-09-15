@@ -1,9 +1,15 @@
-                                 Apache License
+                            Modified Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
+                        
 
    TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
+    Restrictions
+
+      Redistribution of this software (and any derivatives) in source or binary,
+      forms shall be free of all charges or fees to the recipient of this software.
+    
    1. Definitions.
 
       "License" shall mean the terms and conditions for use, reproduction,
